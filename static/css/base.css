@@ -98,9 +98,11 @@ a.category-badge > span.badge:hover {
 
 .btt-link,
 .update-link,
-.remove-item{
+.remove-item {
     cursor: pointer;
 }
+
+/* ------------------------------- bootstrap toasts */
 
 .message-container {
     position: fixed;
@@ -167,8 +169,6 @@ a.category-badge > span.badge:hover {
     overflow-x: hidden;
     overflow-y: auto;
 }
-
-
 
 /* -------------------------------- Media Queries */
 
