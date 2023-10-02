@@ -11,6 +11,7 @@ import json
 import time
 import stripe
 
+# Do not change
 class StripeWH_Handler:
     """Handle Stripe webhooks"""
 
